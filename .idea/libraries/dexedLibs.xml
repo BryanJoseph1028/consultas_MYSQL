@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-support-v4-c7eca866fab33f745bb1ca6e33af07a2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/appcompat_v7_2-d949e00d71d31a2f524460e12ee6b7cb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-support-v7-appcompat-220fcd60fe81ef5ca986cf8ca93de7a8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/mysql-connector-java-5.1.31-bin-6bb510b132ef66f79cf172653ed0511a.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

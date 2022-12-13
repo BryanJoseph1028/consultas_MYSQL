@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/JoseAntonio/Documents/Trabajo/DigitalLearning/Tutorial_BaseDatosExternasAndroid_JAGR_11_06_2014/Librerías/mysql-connector-java-5.1.31-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/JoseAntonio/Documents/Trabajo/DigitalLearning/workspace_DigitalLearning/appcompat_v7_2/bin/appcompat_v7_2.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
